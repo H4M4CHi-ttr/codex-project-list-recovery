@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+recovery-data/
+.venv/
+.env
+.env.*
+*.sqlite*
+*.db
+*.db-*
+.codex-global-state.json*
+repair-plan.json
+candidate.json
+status.json
